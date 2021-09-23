@@ -1,0 +1,29 @@
+.center{
+    text-align: center;
+}
+.root{
+    --primary-color: #FBBF24;
+}
+.lang-button{
+    padding: 1.3rem 2.5rem;
+    margin-top: 1rem;;
+    color: black;
+    background-color: #FBBF24;
+    border: 0rem;
+    
+}
+.container{
+    padding: 1.5rem;
+   background-color: #FBBF24;
+   
+
+}
+.input-box{
+    padding-top: 1.5rem;
+    
+    
+}
+.footer{
+    padding: 1rem;
+    margin: 1rem 0rem;
+}
