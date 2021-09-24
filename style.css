@@ -1,5 +1,6 @@
 .center{
     text-align: center;
+    font-style: italic;
 }
 .root{
     --primary-color: #FBBF24;
@@ -24,6 +25,8 @@
     
 }
 .footer{
-    padding: 1rem;
-    margin: 1rem 0rem;
+    text-align: center;
+    padding: 1rem 0rem ;
+    margin: 1rem 0rem 0rem;
+    border-bottom: 0rem;
 }
